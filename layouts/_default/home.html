@@ -1,0 +1,22 @@
+{{ define "head_extra" -}}
+<script
+  type="text/javascript">if (window.location.hash.indexOf('token') > -1) window.location.href = window.location.origin + '/admin/' + window.location.hash</script>
+{{- end }}
+{{ define "main" }}
+<main>
+  {{- $imageLink := .Params.image_link -}}
+  {{- with .Params.image -}}
+  {{- with resources.Get . -}}
+  <div class="image">
+    {{- if $imageLink -}}<a target="_blank" href="{{ $imageLink }}">{{- end -}}
+      <img src="{{ .RelPermalink }}" />
+      {{- if $imageLink -}}</a>{{- end -}}
+  </div>
+  {{- end -}}
+  {{- end -}}
+  <article>
+    <a href="https://breastfeeding.scot" target="_blank" class="org">La Leche League in Scotland</a>
+    {{- .Content -}}
+  </article>
+</main>
+{{ end }}

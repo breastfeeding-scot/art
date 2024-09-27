@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>{{ .Title }}</title>
+  <meta property="og:title"
+    content="Join us to celebrate the publication of the 9th edition of the Art of Breastfeeding!" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://art.breastfeeding.scot" />
+  <meta property="og:image" content="https://art.breastfeeding.scot/art-of-breastfeeding-cover.jpg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+  <style type="text/css">
+    html,
+    body {
+      font-family: "PT Sans", sans-serif;
+      font-size: 100%;
+    }
+
+    body {
+      background-color: #19647E;
+      color: #19647E;
+      margin: 0;
+    }
+
+    a {
+      color: #74b25c;
+    }
+
+    h1 {
+      color: #b15078;
+    }
+
+    main {
+      display: flex;
+      align-items: center;
+      min-height: 100vh;
+      padding: 2em;
+      box-sizing: border-box;
+    }
+
+    .image img {
+      height: auto;
+      display: block;
+      margin: auto;
+    }
+
+    article {
+      box-sizing: border-box;
+      background-color: #f8f2f4;
+    }
+
+    @media (max-width: 800px) {
+      main {
+        flex-direction: column;
+      }
+
+      .image img {
+        width: 50%;
+        margin-bottom: 2em;
+      }
+
+      article {
+        padding: 1em;
+      }
+    }
+
+    @media (min-width: 801px) {
+      .image {
+        width: 35%;
+        margin-right: 5%;
+      }
+
+      .image img {
+        width: 100%;
+      }
+
+      article {
+        width: 60%;
+        padding: 2em;
+      }
+    }
+
+    article {
+      font-size: 1.5em;
+    }
+
+    .org {
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+      font-size: 0.7em;
+      text-decoration: none;
+    }
+
+    .org:hover {
+      text-decoration: underline;
+    }
+
+    li {
+      margin-bottom: 1em;
+    }
+
+  </style>
+  {{ block "head_extra" . }}{{ end }}
+</head>
+
+<body>
+  {{ block "main" . }}{{ end }}
+</body>
+
+</html>
