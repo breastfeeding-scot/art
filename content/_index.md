@@ -2,7 +2,7 @@
 title: Join us to celebrate the publication of the 9th edition of the Art of
   Breastfeeding!
 image: art-of-breastfeeding-cover.jpg
-image_link: https://pinterandmartin.com/products/the-art-of-breastfeeding
+image_link: https://www.lllgbbooks.co.uk/store/p258/Art-of-Breastfeeding.html
 ---
 # Join us to celebrate the publication of the 9th edition of the Art of Breastfeeding!
 
