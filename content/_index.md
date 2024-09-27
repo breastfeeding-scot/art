@@ -23,3 +23,5 @@ Join us in:
   [The Nucleus at King’s Buildings](https://science-engineering.ed.ac.uk/nucleus-building/about/location), University of Edinburgh
 
 ## [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfxBac0_D5isquAa0jXCFmbmvemA8tTdBD_ObAxpu5vTlGUxw/viewform?usp=sf_link)
+
+*Published by Pinter & Martin on 15 October, available to preorder now. There will also be copies available to purchase at the events.*
