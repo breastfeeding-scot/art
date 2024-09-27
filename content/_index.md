@@ -6,7 +6,7 @@ image_link: https://pinterandmartin.com/products/the-art-of-breastfeeding
 ---
 # Join us to celebrate the publication of the 9th edition of the Art of Breastfeeding!
 
-La Leche League in Scotland have planned three free events to celebrate the update to La Leche League International’s bestseller about all things breastfeeding. 
+La Leche League in Scotland have planned three **free** events to celebrate the update to La Leche League International’s bestseller about all things breastfeeding. 
 
 The book has been updated by a team of four writers, including Jayne Joyce from LLLGB. Jayne will be at each of our events to discuss the book and its content with a local panelist.
 
