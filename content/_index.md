@@ -24,4 +24,6 @@ Join us in:
 
 ## [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfxBac0_D5isquAa0jXCFmbmvemA8tTdBD_ObAxpu5vTlGUxw/viewform?usp=sf_link)
 
-*Published by [Pinter & Martin](https://pinterandmartin.com/products/the-art-of-breastfeeding) on 15 October, [available to pre-order now](https://www.lllgbbooks.co.uk/store/p258/Art-of-Breastfeeding.html). There will also be copies available to purchase at the events.*
+The Art of Breastfeeding is published by [Pinter & Martin](https://pinterandmartin.com/products/the-art-of-breastfeeding) on 15 October, available to pre-order now. There will also be copies available to purchase at the events.
+
+## [Pre-order on LLLGB Books](https://www.lllgbbooks.co.uk/store/p258/Art-of-Breastfeeding.html) *(get £2 off!)*
