@@ -20,7 +20,7 @@ Join us in:
   [Aberdeen Central Library](https://www.aberdeencity.gov.uk/services/libraries-and-archives/find-your-local-library/central-library)
 * **Edinburgh**\
   Sunday 1 December, 10:30–12:00\
-  [The Nucleus at King’s Buildings](https://science-engineering.ed.ac.uk/nucleus-building/about/location), University of Edinburgh
+  Yew Room, [The Nucleus at King’s Buildings](https://science-engineering.ed.ac.uk/nucleus-building/about/location), University of Edinburgh
 
 ## &hearts; [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfxBac0_D5isquAa0jXCFmbmvemA8tTdBD_ObAxpu5vTlGUxw/viewform?usp=sf_link)
 
