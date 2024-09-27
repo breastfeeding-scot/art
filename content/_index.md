@@ -8,7 +8,7 @@ image_link: https://www.lllgbbooks.co.uk/store/p258/Art-of-Breastfeeding.html
 
 La Leche League in Scotland have planned three **free** events to celebrate the newest release of La Leche League International’s bestseller, The Art of Breastfeeding.
 
-The book has been updated by a team of four writers, including Jayne Joyce from LLLGB. Jayne will be at each of our events to discuss the book and its content with a local panelist.
+The book has been updated by a team of four writers, including Jayne Joyce from LLLGB. Jayne will be at each of our events to discuss the book and its content with a local panellist.
 
 Join us in:
 
