@@ -24,4 +24,4 @@ Join us in:
 
 ## [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfxBac0_D5isquAa0jXCFmbmvemA8tTdBD_ObAxpu5vTlGUxw/viewform?usp=sf_link)
 
-*Published by Pinter & Martin on 15 October, available to preorder now. There will also be copies available to purchase at the events.*
+*Published by Pinter & Martin on 15 October, [available to preorder now](https://pinterandmartin.com/products/the-art-of-breastfeeding). There will also be copies available to purchase at the events.*
