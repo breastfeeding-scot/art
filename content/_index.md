@@ -22,8 +22,8 @@ Join us in:
   Sunday 1 December, 10:30–12:00\
   [The Nucleus at King’s Buildings](https://science-engineering.ed.ac.uk/nucleus-building/about/location), University of Edinburgh
 
-## [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfxBac0_D5isquAa0jXCFmbmvemA8tTdBD_ObAxpu5vTlGUxw/viewform?usp=sf_link)
+## &hearts; [Register here!](https://docs.google.com/forms/d/e/1FAIpQLSfxBac0_D5isquAa0jXCFmbmvemA8tTdBD_ObAxpu5vTlGUxw/viewform?usp=sf_link)
 
 The Art of Breastfeeding is published by [Pinter & Martin](https://pinterandmartin.com/products/the-art-of-breastfeeding) on 15 October, available to pre-order now. There will also be copies available to purchase at the events.
 
-## [Pre-order on LLLGB Books](https://www.lllgbbooks.co.uk/store/p258/Art-of-Breastfeeding.html) *(get £2 off!)*
+## &hearts; [Pre-order on LLLGB Books](https://www.lllgbbooks.co.uk/store/p258/Art-of-Breastfeeding.html) *and get £2 off!*
